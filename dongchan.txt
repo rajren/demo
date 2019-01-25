@@ -3,4 +3,7 @@ System.out.println("dongchan")
 
 =======
 System.out.println("dcc")
+<<<<<<< HEAD
 >>>>>>> 4ddebe025e0618fe5f1f3179eee1126a33b21040
+=======
+>>>>>>> parent of a20b2b9... 更新 dongchan.txt
